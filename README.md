@@ -7,7 +7,9 @@ A Predictable State Container for JS Apps
 | [counter-app-toolkit][counter-app-toolkit] | `^4.2`        | `^18.2`       | `^8.0`              | `v16.13`     |
 
 
-Read [Redux Docs](https://redux.js.org/)
+Read 
+- [Redux Docs](https://redux.js.org/)
+- [Redux Fundamentals](https://redux.js.org/tutorials/fundamentals/part-1-overview)
 
 ### Resources
 - [`counter-app`][counter-app]
